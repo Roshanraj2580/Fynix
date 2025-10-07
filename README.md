@@ -1,0 +1,2 @@
+# Fynix
+  ai finance app 
